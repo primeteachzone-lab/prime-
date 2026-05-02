@@ -1,0 +1,8 @@
+{
+  "name": "AuraClone",
+  "description": "Professional voice cloning software. Upload a sample audio clip to clone a voice and generate speech from text using the cloned identity.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
